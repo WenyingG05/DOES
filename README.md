@@ -9,7 +9,7 @@ The DOES model simulates how opinions and emotions co-evolve in social networks 
 ## Installation
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/WenyingG05/DOES.git
 cd DOES
 pip install -r requirements.txt
 ```
