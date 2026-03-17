@@ -1,6 +1,6 @@
 # DOES: Dynamics of Opinion and Emotion in Social Media
 
-A Python implementation of the DOES model for simulating coupled opinion and emotion dynamics in social media.
+A Python implementation of the model presented in the paper "Modeling the Dynamics of Opinion and Emotion on Social Media," published in *IEEE Transactions on Computational Social Systems* (2025).
 
 ## Overview
 
@@ -36,4 +36,18 @@ DOES/
 ├── main.py           # Simple example and visualization
 ├── README.md         # This file
 └── requirements.txt  # Dependencies
+```
+
+## Citation
+
+If you find this work useful in your research, please consider citing:
+
+```bibtex
+@article{gong2025modeling,
+	title={Modeling the Dynamics of Opinion and Emotion on Social Media},
+	author={Gong, Wenying and Ye, Dongsheng and Li, Hao and Lin, Hui and Jiang, Hao},
+	journal={IEEE Transactions on Computational Social Systems},
+	year={2025},
+	publisher={IEEE}
+}
 ```
